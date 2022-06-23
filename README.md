@@ -180,19 +180,5 @@ Tech stack is vast to store vector embeddings. To determine the right tool, you 
 
 
 
-## Contribution 
-
-Pull requests are welcome! You should run the unit tests locally by running [`test/unit_tests.py`](https://github.com/serengil/deepface/blob/master/tests/unit_tests.py). Once a PR sent, GitHub test workflow will be run automatically and unit test results will be available in [GitHub actions](https://github.com/serengil/deepface/actions) before approval.
-
-## Support
-
-There are many ways to support a project - starring⭐️ the GitHub repo is just one 🙏
-
-You can also support this work on [Patreon](https://www.patreon.com/serengil?repo=deepface)
-
-<a href="https://www.patreon.com/serengil?repo=deepface">
-<img src="https://raw.githubusercontent.com/serengil/deepface/master/icon/patreon.png" width="30%" height="30%">
-</a>
-
 
 
